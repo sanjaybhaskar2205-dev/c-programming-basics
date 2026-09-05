@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    printf("First-year BCA C programming journey at VEIT Degree College.\n");
-    return 0;
-}
